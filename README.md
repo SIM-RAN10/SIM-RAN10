@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sharmila Saren
+## 👋 Hi, I’m Sharmila Saren
 ✨ I am passionate about learning ✨
 - 🌱 I’m currently learning Cypress, Selenium and others.
 - 📫 How to reach me sharmilasaren10@gmail.com
