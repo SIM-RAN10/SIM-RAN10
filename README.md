@@ -1,5 +1,10 @@
 # 💫 About Me:
-# 💫 About Me:<br>## 👋 Hi, I’m Sharmila Saren<br><br>✨ I am passionate about learning ✨<br><br>- 🌱 I’m currently learning Cypress, Selenium and others.<br><br>- 📫 How to reach me sharmilasaren10@gmail.com<br><br>- 😄 Pronouns: She/Her<br><br>- ⚡ Fun fact: Programming languages are designed to be accessible, even if you aren't a math expert.
+# 💫 About Me:<br>👋 Hi, I’m Sharmila Saren<br>
+<br>✨ I am passionate about learning ✨<br>
+<br>- 🌱 I’m currently learning Cypress, Selenium and others.<br>
+<br>- 📫 How to reach me sharmilasaren10@gmail.com<br>
+<br>- 😄 Pronouns: She/Her<br>
+<br>- ⚡ Fun fact: Programming languages are designed to be accessible, even if you aren't a math expert.
 
 
 ## 🌐 Socials:
