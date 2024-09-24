@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me:<br>👋 Hi, I’m Sharmila Saren<br>
+<br>👋 Hi, I’m Sharmila Saren<br>
 <br>✨ I am passionate about learning ✨<br>
 <br>- 🌱 I’m currently learning Cypress, Selenium and others.<br>
 <br>- 📫 How to reach me sharmilasaren10@gmail.com<br>
